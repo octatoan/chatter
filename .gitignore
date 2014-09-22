@@ -1,0 +1,5 @@
+chatbot.config
+*~
+*.pyc
+chatbot.log
+__pycache__/*
